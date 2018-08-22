@@ -1,0 +1,8 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "端木宇=》webpack 模板",
+  "main": "index.js",
+  "author": "<duanmu_yu@163.com>",
+  "license": "MIT"
+}
